@@ -1,0 +1,6 @@
+Backend Application testing links
+
+Deployment Code: https://uniqueinvent-backend.onrender.com
+Git Hub link: https://github.com/Pavithra-Velmurugan/Uniqueinvent-backend
+Get Item link : https://uniqueinvent-backend.onrender.com/items/get-items
+Get Bills Link: https://uniqueinvent-backend.onrender.com/bill/get-bill
